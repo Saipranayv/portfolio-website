@@ -1,0 +1,12 @@
+portfolio-website/
+├── src/
+│   ├── main/
+│   │   ├── java/                  # Java backend code
+│   │   │   └── com/yourname/portfolio/
+│   │   ├── resources/
+│   │   │   ├── static/            # Static assets (CSS, JS, images)
+│   │   │   └── templates/         # HTML templates
+│   │   └── webapp/                # Web application files
+│   └── test/                      # Test files
+├── pom.xml                        # Maven configuration
+└── README.md                      # Project documentation
